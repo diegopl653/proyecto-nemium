@@ -4,7 +4,7 @@ html{
       
 }   
 .capa{
-    background-image:  url(./assets/images/patron-1.png), linear-gradient(to top, rgba(255,255,255,0), rgba(0,0,0,20));
+    background-image:  url(./assets/images/patron-1.png);
     display: block;
     width: 100%     ;
     height: 350px;
